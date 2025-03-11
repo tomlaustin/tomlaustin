@@ -1,6 +1,6 @@
 
 ## About Me
-Hiya, I'm Tom, a Computer Science & Economics student.
+Hiya, I'm Tom, a Computer Science & Economics student at Lancaster University.
 
 - Incoming FDSE Intern @ Palantir Technologies
 - Backyard Historian & Writer
